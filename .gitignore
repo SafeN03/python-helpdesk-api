@@ -1,0 +1,18 @@
+# Python virtual environments
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables and secrets
+.env
+
+# Test cache
+.pytest_cache/
+
+# macOS files
+.DS_Store
+
+# VS Code local settings
+.vscode/
